@@ -10,3 +10,6 @@ This has the code to send the above csv to any email.
 Specify the email from,to, subject etc.
 
 The code then gets the report and attaches this to email and sends it.
+
+
+FlightPrice.csv are my data files inside Snowflake
